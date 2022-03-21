@@ -1,2 +1,2 @@
 # Growdev-atividades
-Aqui estarão todas as ativisade realizadas para entregas da 7 Edição Full Stacker :)
+Aqui estarão todas as ativisade realizadas para entregas da 7 Edição Full Stacker da Growdev:)
