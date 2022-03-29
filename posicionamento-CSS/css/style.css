@@ -1,0 +1,116 @@
+/* PÁGINA 01 - INICIO */
+  body {
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    background-color: lightgray;
+    width: 100vw;
+    height: 100vh;
+  }
+
+  .posicionamento02{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 70%;
+    width: 70%;
+    transform: translate(-50%, -50%);
+  }
+
+  #posicionamento{
+    position: absolute;
+    height: 100%;
+    width: 50%;
+  }
+  
+
+  #azul{
+    background-color: blue;
+  }
+  
+  #vermelho{
+    background-color: red;
+  }
+  
+  #preto{
+    background-color: black;
+  }
+  
+  #verde{
+    background-color: green;
+  }
+  
+  #amarelo{
+    background-color: yellow;
+  }
+
+/* PÁGINA 01 - FIM*/
+
+/* PÁGINA 02 - INICIO*/
+  .quadrante01{
+      background-color: black;
+      width: 150px;
+      height: 35%;
+      position: absolute;
+      left: 916.5px;
+
+  }
+
+  .quadrante02{
+      background-color: black;
+      width: 150px;
+      height: 35%;
+
+  }
+  .quadrante04{
+      background-color: black;
+      width: 150px;
+      height: 35%;
+      position: absolute;
+      bottom:0px;
+      right: 0px;
+  }
+  .quadrante03{
+      background-color: black;
+      width: 150px;
+      height: 35%;
+      position: absolute;
+      bottom: 0px;
+  }
+
+/* PÁGINA 02 - FIM*/
+
+/* PÁGINA 03 - INICIO*/
+
+  .paragrafo01{
+      background-color: black;
+      width: 94%;
+      height: 40%;
+      margin-top: 30px;
+      margin-left: 30px;
+      border-radius: 40px;
+  }
+
+  .fonte01{
+      color: white;
+      padding-top: 0px;
+      text-align: center;
+      padding-top: 30px;
+  }
+
+  .fonte02{
+    color: white;
+    padding-top: 0px;
+    text-align: center;
+}
+
+  .paragrafo02{
+    background-color: black;
+    width: 94%;
+    height: 40%;
+    margin-top: 30px;
+    margin-left: 30px;
+    overflow: scroll;
+  }
+
+/* PÁGINA 03 - FIM*/
